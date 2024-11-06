@@ -1,0 +1,257 @@
+header .container{
+    background: rgb(243, 215, 183);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 12px;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 1px;
+text-align: left;
+text-transform: uppercase;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+}
+
+header{
+    padding: 50px 100px;
+    background: rgb(243, 215, 183);
+}
+
+.box1 p{
+    width: 400px;
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.box1 button{
+    border-radius: 100px;
+    width: 193px;
+height: 51px;
+border: none;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 1px;
+margin-top: 50px;
+text-align: center;
+background: rgb(10, 119, 95);
+}
+
+#hero .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(243, 215, 183);
+}
+
+.img1{
+    position: relative;
+    top: 45px;
+
+}
+
+.img2{
+    position: absolute;
+    left: 720px;
+}
+
+.box1{
+    padding-left: 120px;
+}
+
+.box1 h1{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 64px;
+width: 500px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.fonts{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 59px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+#fonyu{
+    padding-top: 120px;
+}
+
+.foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.vip h3{
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+line-height: 56px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.vip p{
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0px;
+text-align: left;
+width: 468.41px;
+height: 68px;
+}
+
+footer .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(243, 215, 183);
+    padding: 40px 120px;
+}
+
+.erta{
+    display: flex;
+    gap: 30px;
+}
+
+.foto img:hover{
+    width: 500px;
+}
+
+
+
+nav a{
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 12px;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 1px;
+text-align: left;
+text-transform: uppercase;
+}
+
+#there{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.boob{
+    margin-top: 74px;
+}
+
+.img9{
+    margin-top: 130px;
+    position: relative;
+    right: 50px;
+}
+
+.about{
+    background: rgb(243, 215, 183);
+    padding-bottom: 100px;
+}
+
+#titlee1 .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 150px 120px;
+}
+
+.iphone p{
+    width: 646.39px;
+height: 207.49px;
+color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;   
+padding-top: 50px;
+}
+
+.iphone h1{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.kontent p{
+    width: 600.39px;
+height: 207.49px;
+color: beige;
+padding-top: 50px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left; 
+
+}
+
+#renglate{
+    background-color: rgb(253, 195, 87);
+    
+}
+
+.kontent h1{
+    color: white;
+    font-size: 48px;
+    width: 264px;
+height: 77.14px;
+}
+
+#renglate .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 120px;
+}
+
+.werewe{
+    position: relative;
+    bottom: 100px;
+}
